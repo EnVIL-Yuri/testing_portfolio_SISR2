@@ -1,0 +1,57 @@
+<!-- Post Cisco -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="post-preview">
+        <a href="§§§§§§§§§"> <!-- §§§§ remplacer par le nom du fichier html-->
+          <h2 class="post-title">
+            Documentation Cisco
+          </h2>
+        </a>
+  
+          <p class="post-meta">Poster par
+          <a href="cv.html">Jarod Marie</a>
+          06/11/2020</p>
+      </div>
+      <hr>
+      
+      <!-- Pager -->
+      <div class="clearfix">
+        <a class="btn btn-primary float-right" href="en_cours_de_développement.html">Lire la Page &rarr;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<!---------------------------------------------------------------------------------------------------------------------------------->
+
+<!-- Post HP -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="post-preview">
+        <a href="§§§§§§§§§"> <!-- §§§§ remplacer par le nom du fichier html-->
+          <h2 class="post-title">
+            Documentation HP
+          </h2>
+        </a>
+  
+          <p class="post-meta">Poster par
+          <a href="cv.html">Jarod Marie</a>
+          06/11/2020</p>
+      </div>
+      <hr>
+      
+      <!-- Pager -->
+      <div class="clearfix">
+        <a class="btn btn-primary float-right" href="en_cours_de_développement.html">Lire la Page &rarr;</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<!---------------------------------------------------------------------------------------------------------------------------------->
